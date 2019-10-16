@@ -26,6 +26,6 @@ public class hello {
 	}
 	
 	public String test02() {
-        return "hello_maven02，第二次上传";
+        return "hello_maven02";
     }
 }
